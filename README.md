@@ -5,7 +5,7 @@ Until 1992, the Winter and Summer Games were held in the same year. Following th
 
 Link to the dataset: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 
-![This is an image]("C:\Users\HP\Downloads\rio-de-janeiro-2016-summer-olympics-e1467812135773.svg")
+!("C:\Users\HP\Downloads\rio-de-janeiro-2016-summer-olympics-e1467812135773.svg")
 
 There are two files included as part of data namely athlete_events.csv and noc_regions.csv. The file athlete_events.csv contains 271116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event (athlete-events). The columns are:
 
